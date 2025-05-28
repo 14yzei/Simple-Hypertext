@@ -1,5 +1,17 @@
-### HTML Formatting Elements
+# HTML Text Formatting
+HTML contains several elements for defining text with a special meaning.
+
+### Example
+
+<b>This text is bold
+
+<i>This text is italic
+
+This is <sub>subscript and <sup>superscript
+
+## HTML Formatting Elements
 Formatting elements were designed to display special types of text:
+```bash
 - <b> - Bold text
 - <strong> - Important text
 - <i> - Italic text
@@ -10,3 +22,4 @@ Formatting elements were designed to display special types of text:
 - <ins> - Inserted text
 - <sub> - Subscript text
 - <sup> - Superscript text
+```
