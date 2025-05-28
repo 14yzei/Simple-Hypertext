@@ -22,5 +22,5 @@ HTML (HyperText Markup Language) is a markup language used to create the structu
 </html>
 ```
 
-- <html lang="en">
+- html lang="en"
  ** You should always include the lang attribute inside the <html> tag, to declare the language of the Web page
