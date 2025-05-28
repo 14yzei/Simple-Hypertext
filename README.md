@@ -1,4 +1,4 @@
-# Simple-Hypertext ![Image](https://github.com/user-attachments/assets/a8b24765-d27e-43ac-9268-9b39ba59eabf)
+# Simple-Hypertext ![Image](https://github.com/user-attachments/assets/25338921-5a46-4128-a7f6-65af37a14ab0)
 
 - Simple ~ easily understood, done, no difficulty.
 - Hypertext ~ abbreviation of hypertext markup language
